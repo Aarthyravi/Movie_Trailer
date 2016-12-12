@@ -7,6 +7,8 @@ Then You should need to develop the two python file. one file is defined the cla
 
 fresh_tomatoes.py has function called open_movies_page() creates the webpage.
 
+This file is already being created by Udacity
+
 #How To Run
 
 To run the entertain.py file.
