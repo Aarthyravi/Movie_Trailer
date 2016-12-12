@@ -7,7 +7,11 @@ Then You should need to develop the two python file. one file is defined the cla
 
 fresh_tomatoes.py has function called open_movies_page() creates the webpage.
 
-To run the entertain.py file
+#How To Run
 
-Movie Trailer is generated a Website to display the Movie Box art and to play the corresponding Movie Trailer
+To run the entertain.py file.
+
+#Output
+
+Movie Trailer is generated a Website to display the Movie Box art and Click on Movie Image to play the corresponding Movie Trailer
 
