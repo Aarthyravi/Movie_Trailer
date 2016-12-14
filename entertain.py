@@ -1,7 +1,7 @@
-import fresh_tomatoes  # import the module. This is template of this project
+import fresh_tomatoes  # import the module. This module is template of this project
 import media           # To call my 'class Movie():' definition module
 
-# Create our own instances(bfg,avator,mummy,trolls,zootopia,jurassic)
+# Create own instances(bfg,avator,mummy,trolls,zootopia,jurassic)
 # of their class 'Movie'.
 
 bfg = media.Movie("The BFG",
