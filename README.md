@@ -1,9 +1,11 @@
 # Movie_Trailer
 Project 1 : Movie Trailer Website
 
-First We have installed python
+# Requirements
 
-Then we would need to create two python file. 
+Check whether Pyhton is installed in your system 
+
+Then to create two python files. 
 
 Here I am using to one file is defined the class(media.py). and to use this class from the another file(entertain.py).
 
@@ -16,6 +18,7 @@ To run the entertain.py file.
 
 # Output
 
-Movie Trailer Project is generated a Webpage to display the Movie Box art and Click on Movie Image to play the corresponding Movie Trailer
+Movie Trailer Project is generated a Webpage to display the Movie Box art 
+and Click on Movie Image to play the corresponding Movie Trailer
 
 
