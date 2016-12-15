@@ -9,7 +9,6 @@ Here I am using to one file is defined the class(media.py). and to use this clas
 
 fresh_tomatoes.py had a function called open_movies_page() that creates the HTML webpage.
 
-This file is already being created by Udacity
 
 # How To Run
 
