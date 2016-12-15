@@ -1,8 +1,7 @@
 import fresh_tomatoes  # import the module. This module is template of this project
-import media           # To call my 'class Movie():' definition module
+import media           # To call 'class Movie():' definition module
 
-# Create instances(bfg,avator,mummy,trolls,zootopia,jurassic)
-# of the class 'Movie'.
+# Create instances(bfg,avator,mummy,trolls,zootopia,jurassic) for each movie.
 
 bfg = media.Movie("The BFG",
                   "Ten-year-old Sophie is in for the adventure of a lifetime when she meets the Big Friendly Giant",
@@ -29,7 +28,7 @@ jurassic = media.Movie("Jurassic World",
                        "When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok",
                        "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",
                        "https://www.youtube.com/watch?v=h-IxwI6m_s0")
-# Array list of input
+# Array list of movies
 movies = [bfg,avator,mummy,trolls,zootopia,jurassic]
 
 # open_movies_page receives this input array and to create HTML Webpage.
