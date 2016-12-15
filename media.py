@@ -3,7 +3,7 @@ class Movie():        # class creation
     # initialize the variable and self is the first argument of every function   
     def __init__(self,movie_title,movie_storyline,poster_image,trailer_youtube):
         
-        # self.title and other three of them are the instance variable. Each object has it's own copy of the instance variable.
+        # Details of the movie informations are stored here during the object creation
         
         self.title = movie_title                     
         self.storyline = movie_storyline
