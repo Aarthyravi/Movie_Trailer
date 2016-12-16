@@ -10,8 +10,8 @@ bfg = media.Movie("The BFG",
                   "https://www.youtube.com/watch?v=VG5MtenlP-A")
 
 avator = media.Movie("Avator",
-                     "Jack is drawn into a battle\
-                     for the survival of Marine's World",
+                     "Jack is drawn into a battle for\
+                     the survival of Marine's World",
                      "https://upload.wikimedia.org/wikipedia/en/a/a1/Avatar-video-game-cover.jpg", # noqa
                      "https://www.youtube.com/watch?v=d1_JBMrrYw8")
 mummy = media.Movie("The Mummy(2017)",
@@ -19,8 +19,8 @@ mummy = media.Movie("The Mummy(2017)",
                     "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/The_Mummy_(2017)_teaser_poster.jpg/220px-The_Mummy_(2017)_teaser_poster.jpg", # noqa
                     "https://www.youtube.com/watch?v=LAWo9_V2qOg")
 trolls = media.Movie("Trolls",
-                     "The Trolls are small creatures who live\
-                     in an almost perpetual state"
+                     "The Trolls are small creatures who live in\
+                      an almost perpetual state"
                      "https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png", # noqa
                      "https://www.youtube.com/watch?v=xyjm5VQ11TQ")
 zootopia = media.Movie("Zootopia",
