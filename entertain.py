@@ -20,8 +20,7 @@ mummy = media.Movie("The Mummy(2017)",
                     "https://www.youtube.com/watch?v=LAWo9_V2qOg")
 trolls = media.Movie("Trolls",
                      "The Trolls are small creatures who live\
-                     in an almost perpetual state of happiness\
-                     singing, dancing, and hugging all day long",
+                     in an almost perpetual state"
                      "https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png", # noqa
                      "https://www.youtube.com/watch?v=xyjm5VQ11TQ")
 zootopia = media.Movie("Zootopia",
