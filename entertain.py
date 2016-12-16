@@ -37,7 +37,4 @@ jurassic = media.Movie("Jurassic World",
 movies = [bfg,avator,mummy,trolls,zootopia,jurassic]
 
 # open_movies_page receives this input array and to create HTML Webpage.
-fresh_tomatoes.open_movies_page(movies)
-
-                       
-                       
+fresh_tomatoes.open_movies_page(movies)      
