@@ -21,4 +21,4 @@ To run the entertain.py file.
 Movie Trailer Project is generated a Webpage to display the Movie Box art 
 and Click on Movie Image to play the corresponding Movie Trailer
 
-
+https://aarthyravi.github.io/Movie_Trailer/index.html
